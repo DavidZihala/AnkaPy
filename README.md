@@ -17,9 +17,9 @@ Welcome to Python programming workshop for bioinformatics: AnkaPy. AnkaPy is a s
  :e-mail: ezgialtinisik@gmail.com, zihaladavid@gmail.com, eren26285@gmail.com
 
 Instructors
-- David Žihala, Department of Biology and Ecology, University of Ostrava, Czech Republic
-- N. Ezgi Altınışık, Department of Anthropology, Hacettepe University, Turkey
-- Eren Yüncü, Department of Biology and Ecology, University of Ostrava, Czech Republic
+- **David Žihala**, Department of Biology and Ecology, University of Ostrava, Czech Republic
+- **N. Ezgi Altınışık**, Department of Anthropology, Hacettepe University, Turkey
+- **Eren Yüncü**, Department of Biology and Ecology, University of Ostrava, Czech Republic
 
 Organized by: RSG-Turkey, Hacettepe University, University of Ostrava, SOVA
 <img src="support.png" alt="drawing" width="800"/>
