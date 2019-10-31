@@ -21,9 +21,9 @@ Instructors
 - David Žihala, Department of Biology and Ecology, University of Ostrava, Czech Republic
 - N. Ezgi Altınışık, Department of Anthropology, Hacettepe University, Turkey
 
-##Preliminary Program
+## Preliminary Program
 
-###Day 1:\
+### Day 1:
 9:00 – 9:30	Introduction\
 9:30 – 11:00	Basic data types\
 11:00 – 11:15  Coffee break\
@@ -33,7 +33,7 @@ Instructors
 15:00 – 15:15 Coffee break\
 15:15 – 17:00 Functions
 
-###Day 2:\
+### Day 2:
 9:00 – 11:00 Working with files, string formatting\
 11:00 – 11:15  Coffee break\
 11:15 – 12:30 Classes\
@@ -42,14 +42,14 @@ Instructors
 15:00 – 15:15 Coffee break\
 15:15 – 17:00 Generators, Iterators
 
-###Day 3:\
+### Day 3:
 9:00 – 11:00 Regular expressions\
 11:00 – 11:15  Coffee break\
 11:15 – 12:30 Classes(2)\
 12:30 – 13:30 Lunch break\
 13:30 – 15:00 Biopython – SeqIO
 
-###Day 4:\
+### Day 4:
 9:00 – 11:00 Biopython - AlignIO\
 11:00 – 11:15  Coffee break\
 11:15 – 12:30 Biopython – Blast.NCBIWWW\
@@ -58,7 +58,7 @@ Instructors
 15:00 – 15:15 Coffee break\
 15:15 – 17:00 Biopython - Entrez
 
-###Day 5:\
+### Day 5:
 9:00 – 11:00 Introduction to scientific Python\
 11:00 – 11:15  Coffee break\
 11:15 – 12:30 pandas\
