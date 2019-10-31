@@ -12,7 +12,7 @@ Welcome to Python programming workshop for bioinformatics: AnkaPy. AnkaPy is a s
 
  :moneybag: Free
 
- :clipboard:: https://forms.gle/KxCcviJw3dSyYRye7
+ :clipboard: [registration form](https://forms.gle/KxCcviJw3dSyYRye7)
 
  :e-mail: ezgialtinisik@gmail.com, zihaladavid@gmail.com, eren26285@gmail.com
 
