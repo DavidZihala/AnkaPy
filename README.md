@@ -2,7 +2,7 @@
 
 
 # Welcome!
-Welcome to Python programming workshop for bioinformatics: AnkaPy. AnkaPy is a sequel of the OstraPy workshop (<http://ostrapy.pythonanywhere.com/>) situated in the capital of Turkey, Ankara. The main goal of this project is to spread knowledge and teach people how to use Python efficiently in their scientific projects. Students will learn basic programming concepts, essentials of Biopython package (working with fasta files, blast, Entrez database) and some key packages for data science in Python (numpy, pandas, matplotlib).
+Welcome to Python programming workshop for bioinformatics: AnkaPy. AnkaPy is a sequel to the OstraPy workshop (http://ostrapy.pythonanywhere.com/) situated in the capital of Turkey, Ankara. The main goal of this project is to spread knowledge and teach people how to use Python efficiently in their scientific projects. Students will learn basic programming concepts, essentials of the Biopython package (working with fasta files, blast, Entrez database) and some key packages for data science in Python (numpy, pandas, matplotlib).
 
 ## General info
 
@@ -30,10 +30,10 @@ Instructors
 11:15 – 12:30 Control statements(1), Exception handling\
 12:30 – 13:30 Lunch break\
 13:30 – 15:00 Control statements(2), working with files\
-15:00 – 15:15 Coffee break\
+15:00 – 15:15 Coffee breWelcome to Python programming workshop for bioinformatics: AnkaPy. AnkaPy is a sequel of the OstraPy workshop (http://ostrapy.pythonanywhere.com/) situated in the capital of Turkey, Ankara. The main goal of this project is to spread knowledge and teach people how to use Python efficiently in their scientific projects. Students will learn basic programming concepts, essentials of Biopython package (working with fasta files, blast, Entrez database) and some key packages for data science in Python (numpy, pandas, matplotlib).ak\
 15:15 – 17:00 Functions
 
-### Day 2:
+### Day 2:Welcome to Python programming workshop for bioinformatics: AnkaPy. AnkaPy is a sequel of the OstraPy workshop (http://ostrapy.pythonanywhere.com/) situated in the capital of Turkey, Ankara. The main goal of this project is to spread knowledge and teach people how to use Python efficiently in their scientific projects. Students will learn basic programming concepts, essentials of Biopython package (working with fasta files, blast, Entrez database) and some key packages for data science in Python (numpy, pandas, matplotlib).
 9:00 – 11:00 Working with files, string formatting\
 11:00 – 11:15  Coffee break\
 11:15 – 12:30 Classes\
