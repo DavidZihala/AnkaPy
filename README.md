@@ -21,7 +21,9 @@ Instructors
 - N. Ezgi Altınışık, Department of Anthropology, Hacettepe University, Turkey
 - Eren Yüncü, Department of Biology and Ecology, University of Ostrava, Czech Republic
 
-Organized by: RSG-Turkey, University of Ostrava, Hacettepe University
+Organized by: RSG-Turkey, Hacettepe University, University of Ostrava, SOVA
+
+<img src="support.png" alt="drawing" width="800"/>
 
 ## Preliminary Program
 
