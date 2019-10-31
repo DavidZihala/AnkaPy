@@ -2,24 +2,25 @@
 
 
 # Welcome!
-Welcome to Python programming workshop for bioinformatics: AnkaPy. AnkaPy is a sequel to the OstraPy workshop (http://ostrapy.pythonanywhere.com/) situated in the capital of Turkey, Ankara. The main goal of this project is to spread knowledge and teach people how to use Python efficiently in their scientific projects. Students will learn basic programming concepts, essentials of the Biopython package (working with fasta files, blast, Entrez database) and some key packages for data science in Python (numpy, pandas, matplotlib).
+Welcome to Python programming workshop for bioinformatics: AnkaPy. AnkaPy is a sequel of the OstraPy workshop (<http://ostrapy.pythonanywhere.com/>) situated in the capital of Turkey, Ankara. The main goal of this project is to spread knowledge and teach people how to use Python efficiently in their scientific projects. Students will learn basic programming concepts, essentials of Biopython package (working with fasta files, blast, Entrez database) and some key packages for data science in Python (numpy, pandas, matplotlib).
 
 ## General info
 
-Date: 25-29 November 2019
+  :date: 25-29 November 2019
 
-Place: Hacettepe University, Ankara
+ :school: Hacettepe University, Ankara
 
-Price: Free
+ :moneybag: Free
 
-Application: https://forms.gle/KxCcviJw3dSyYRye7
+ :clipboard:: https://forms.gle/KxCcviJw3dSyYRye7
 
-contact: ezgialtinisik@gmail.com, zihaladavid@gmail.com
+ :e-mail: ezgialtinisik@gmail.com, zihaladavid@gmail.com
 
 Instructors
-
 - David Žihala, Department of Biology and Ecology, University of Ostrava, Czech Republic
 - N. Ezgi Altınışık, Department of Anthropology, Hacettepe University, Turkey
+
+Organized by: RSG-Turkey, University of Ostrava, Hacettepe University
 
 ## Preliminary Program
 
