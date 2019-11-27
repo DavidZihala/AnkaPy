@@ -70,5 +70,5 @@ Instructors
 15:00 – 15:15 Coffee break :coffee:\
 15:15 – 17:00 More pandas and Matplolib
 
-literature:
+## literature :books:
 mice book: https://leanpub.com/python_101
