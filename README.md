@@ -69,3 +69,6 @@ Instructors
 13:30 – 15:00 Matplotlib\
 15:00 – 15:15 Coffee break :coffee:\
 15:15 – 17:00 More pandas and Matplolib
+
+literature:
+mice book: https://leanpub.com/python_101
