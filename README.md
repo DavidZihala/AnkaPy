@@ -71,4 +71,6 @@ Instructors
 15:15 – 17:00 More pandas and Matplolib
 
 ## literature :books:
-mice book: https://leanpub.com/python_101
+
+[mice book](https://leanpub.com/python_101)
+[python for biologist](https://books.google.com.tr/books/about/
