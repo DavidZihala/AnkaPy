@@ -73,4 +73,4 @@ Instructors
 ## literature :books:
 
 [mice book](https://leanpub.com/python_101)\
-[python for biologist](https://books.google.com.tr/books/about/)
+[python for biologist](https://books.google.com.tr/books/about/Python_for_Biologists.html?id=vnArvvqC918C&source=kp_book_description&redir_esc=y)
