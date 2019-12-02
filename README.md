@@ -20,6 +20,10 @@ Instructors
 - **David Žihala**, Department of Biology and Ecology, University of Ostrava, Czech Republic
 - **N. Ezgi Altınışık**, Department of Anthropology, Hacettepe University, Turkey
 - **Eren Yüncü**, Department of Biology and Ecology, University of Ostrava, Czech Republic
+- **Yasin Kaya**, Department of Biology, Hacettepe University, Turkey
+- **Dilek Koptekin**, Department of Biology, Middle East Technical University, Turkey
+
+
 
 **Organized by: RSG-Turkey, Hacettepe University, University of Ostrava, SOVA**
 <img src="support.png" alt="drawing" width="800"/>
