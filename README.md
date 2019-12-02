@@ -74,3 +74,26 @@ Instructors
 
 [mice book](https://leanpub.com/python_101)\
 [python for biologist](https://books.google.com.tr/books/about/Python_for_Biologists.html?id=vnArvvqC918C&source=kp_book_description&redir_esc=y)
+
+****——****
+
+for Ecology and Genomic cases —>  https://datacarpentry.org
+
+for Bayesian Inferences —> https://seeing-theory.brown.edu
+ for pandas —> https://pandas.pydata.org/pandas-docs/stable/getting_started/10min.html
+
+for Linux, Python and R
+https://software-carpentry.org/lessons/
+
+Hands-on Python Course ->> https://www.codecademy.com  && datacamp.com  
+
+[edX](edx.org)
+[exercism](https://exercism.io)
+[Coderbyte](https://coderbyte.com)
+[Lynda](https://www.lynda.com)
+[PluralSight](https://www.pluralsight.com)
+[Rosalind](http://rosalind.info/problems/locations/)
+[Coursera](https://www.coursera.org)
+
+for more and detail:
+http://rsgturkey.com/en/resources/
